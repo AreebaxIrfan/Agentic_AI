@@ -2,7 +2,7 @@
 
 This repository contains a simple BMI Calculator built with Python and Streamlit. The application takes user inputs for weight and height, computes the Body Mass Index (BMI), and displays the result along with the corresponding weight category.
 
-The website, created by **The Mind Growth**, hosts this interactive application for users to easily calculate their BMI online.
+The website, created by **The Mind Growth**, hosts this interactive application for users to easily calculate their BMI online. 
 
 ## Features
 
