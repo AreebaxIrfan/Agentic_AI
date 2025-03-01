@@ -14,6 +14,8 @@ The website, created by **The Mind Growth**, hosts this interactive application 
 - **Responsive Design:** Accessible on various devices via the web.
 - **Hosted Online:** Visit the website created by The Mind Growth to try it out live.
 
+## Production Link: https://growth-mind-set-web.streamlit.app/
+
 ## Getting Started
 
 ### Prerequisites
