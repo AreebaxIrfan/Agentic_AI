@@ -3,7 +3,6 @@
 
 # # ! pip install-Uq openai agents.
 
-# import nest_asyncio
 # nest_asyncio.apply()
 
 
@@ -14,7 +13,6 @@
 # # base url find from the documentation.
 # BASE_URL = "https://openrouter.ai/api/v1"
 
-# MODEL = "u"
 
 # import requests
 # import json
