@@ -3,6 +3,7 @@ import random
 from datetime import datetime
 # Configure page
 
+
 st.set_page_config(
     page_title="Growth Mindset Companion",
     page_icon="🌱",
