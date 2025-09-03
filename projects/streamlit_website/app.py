@@ -1,15 +1,15 @@
 import streamlit as st
 import random
 from datetime import datetime
+
 # Configure page
-
-
 st.set_page_config(
     page_title="Growth Mindset Companion",
     page_icon="🌱",
     layout="wide",
     initial_sidebar_state="collapsed"
 )
+
 # Enhanced professional CSS with dark theme
 st.markdown("""
     <style>
