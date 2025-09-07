@@ -6,7 +6,6 @@
 # nest_asyncio.apply()
 
 
-# from google.colab import userdata
 # OPENROUTER_APY_KEY = userdata.get("OPENROUTER_API_KEY")
 
 
@@ -20,3 +19,4 @@
 #     url = f"{RASE_URL}/chat/co,pletions"
     
 # )
+
