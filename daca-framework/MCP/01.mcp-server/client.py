@@ -7,7 +7,6 @@ headers ={
     "Content-Type" :"application/json"
 
 }
-# body = {"jsonrpc":"2.0","id":1,"method":"mcp.greeting","params":{"name":"hello-server"}}
 body = {"jsonrpc":"2.0",
 "id":1,
 "method":"tool/call",
@@ -18,3 +17,4 @@ body = {"jsonrpc":"2.0",
 text = requests.get(url).text
 
 print(reponse.text)
+
